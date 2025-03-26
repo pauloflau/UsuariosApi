@@ -15,7 +15,7 @@ A API de usuários oferece as seguintes funcionalidades:
 - **Criação de usuários** (POST /api/usuarios/register)
 - **Autenticação de usuários** (POST /api/usuarios/login)
 
-##Funcionalidade de Integração com a API de Produtos
+## Funcionalidade de Integração com a API de Produtos
 Após o login bem-sucedido, a API de usuários gera um **token JWT** (JSON Web Token) que é utilizado para autenticar requisições subsequentes à API de produtos. O front-end Angular pode utilizar este token para interagir com a API de produtos, realizando operações como **criação, leitura, atualização e exclusão de produtos**.
 
 ## Tecnologias Utilizadas
