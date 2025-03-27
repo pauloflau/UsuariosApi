@@ -28,6 +28,6 @@ public class UsuariosController {
 	
 	@PostMapping("autenticar")
 	public AutenticarUsuarioResponseDto autenticar(@RequestBody @Valid AutenticarUsuarioRequestDto request) {
-		return null;
+		return usuarioService.autenticarUsuario(request);
 	}
 }

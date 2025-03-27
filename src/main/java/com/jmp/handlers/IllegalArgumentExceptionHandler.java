@@ -21,7 +21,7 @@ public class IllegalArgumentExceptionHandler {
 	@ExceptionHandler(IllegalArgumentException.class)
 	@ResponseStatus(HttpStatus.BAD_REQUEST)
 	@ResponseBody
-	public ErrorResponseDto handleIllegalArgumentException 				(IllegalArgumentException e) {
+	public ErrorResponseDto handleIllegalArgumentException(IllegalArgumentException e) {
 
 		ErrorResponseDto response = new ErrorResponseDto();
 		response.setStatus(HttpStatus.BAD_REQUEST);
