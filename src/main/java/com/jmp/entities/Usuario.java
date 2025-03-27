@@ -28,5 +28,6 @@ public class Usuario {
 	@Column( length = 40, nullable=false)
 	private String senha;
 	
+	@Column(name="datahora")
 	private LocalDateTime dataHora;
 }
