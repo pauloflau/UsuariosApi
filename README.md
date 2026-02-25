@@ -79,6 +79,10 @@ A aplicação estará disponível em: [http://localhost:8080](http://localhost:8
 - [Documentação do Spring Security(JWT)](https://docs.spring.io/spring-security/reference/index.html)
 - [Documentação do Angular](https://angular.dev/)
 
+### Contato
+
+Caso queira trocar ideias ou sugerir melhorias:  
+[LinkedIn](https://www.linkedin.com/in/paulo-flau-43b667382/) 
 
 ## Contribuição
 Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para abrir uma pull request ou um issue.
