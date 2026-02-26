@@ -82,7 +82,8 @@ A aplicação estará disponível em: [http://localhost:8080](http://localhost:8
 ### Contato
 
 Caso queira trocar ideias ou sugerir melhorias:  
-[LinkedIn](https://www.linkedin.com/in/pauloflau/) 
+**Paulo Flau**
+- [LinkedIn](https://www.linkedin.com/in/pauloflau/) 
 
 ## Contribuição
 Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para abrir uma pull request ou um issue.
